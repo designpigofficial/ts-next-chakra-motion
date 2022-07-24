@@ -43,22 +43,22 @@ const IndexPage = () => {
           <Heading as='h1'>Abner Development</Heading>
           <Divider />
           <Text color='gray.500' align='justify'>
-            <Trans i18nKey='excerpt'>
-              <strong>Hi,</strong>
-              My name is Brandon,
-              <strong>and I am a developer</strong>
-              with a lengthy background in marketing. Passionate about computer science and
-              <strong>new technologies</strong>, currently
+            <Text>
+              <strong>Hi, </strong>
+              My name is Brandon
+              <strong>, I am a developer </strong>
+              with a extensive background in marketing. Passionate about computer science and 
+              <strong>new technologies</strong>, currently 
               <ExternalLink href='https://nextjs.org/'>
-                Next.js
-              </ExternalLink>&{' '}
+                Next.js 
+              </ExternalLink>& {' '}
               <ExternalLink href='https://chakra-ui.com/'>
                 Chakra UI
               </ExternalLink>
-              , I develop in order to propose different{' '}
-              <strong>opensource</strong>
+              , I develop in order to propose different {' '}
+              <strong>opensource </strong>
               contents.
-            </Trans>
+            </Text>
           </Text>
           <HStack
             spacing={4}
