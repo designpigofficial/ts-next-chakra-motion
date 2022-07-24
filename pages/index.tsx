@@ -40,14 +40,14 @@ const IndexPage = () => {
           w={{ base: '100%', md: '50%' }}
           py={{ base: 20, md: 0 }}
         >
-          <Heading as='h1'>Alexandre GOSSARD</Heading>
+          <Heading as='h1'>Abner Development</Heading>
           <Divider />
           <Text color='gray.500' align='justify'>
             <Trans i18nKey='excerpt'>
-              <strong>Student</strong>
-              by day,
-              <strong>mad developer</strong>
-              by night. Passionate about computer science and
+              <strong>Hi,</strong>
+              My name is Brandon,
+              <strong>and I am a developer</strong>
+              with a lengthy background in marketing. Passionate about computer science and
               <strong>new technologies</strong>, currently
               <ExternalLink href='https://nextjs.org/'>
                 Next.js
