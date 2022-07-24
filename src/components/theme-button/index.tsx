@@ -52,7 +52,7 @@ const ThemeButton = () => {
         initial='initial'
         animate='enter'
         exit='exit'
-        colorScheme={mode('purple', 'orange')}
+        colorScheme={mode('blue', 'yellow')}
         icon={mode(<BsMoon />, <WiDaySunny />)}
         variants={variants}
         onClick={toggleColorMode}

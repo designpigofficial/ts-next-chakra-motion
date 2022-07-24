@@ -71,7 +71,7 @@ const IndexPage = () => {
                 variant='ghost'
                 rightIcon={<ImSphere />}
               >
-                Website
+                About Me
               </Button>
             </Link>
             <Link href={GITHUB_PROFILE} isExternal>
